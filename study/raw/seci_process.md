@@ -1,3 +1,12 @@
+---
+type: strategy
+title: SECIモデル
+description: SECIモデルを組織内で活用するためのノウハウ
+resource: "https://github.com/co-karuna/knowledge-base/blob/main/study/raw/seci_process.md"
+tags: [seci, facilitation]
+timestamp: 2026-06-28T08:04:55Z
+---
+
 # SECIモデル
 
 ## SECIプロセスが円滑に回るのを阻害するのは何か？
