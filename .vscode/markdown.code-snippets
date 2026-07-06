@@ -5,7 +5,7 @@
     "description": "Open Knowledge Format front matter",
     "body": [
       "---",
-      "type: ${1|runbook,metrics,policies,strategy,issues,tables,study|}",
+      "type: ${1|runbook,metrics,policies,strategy,issues,tables,study,meeting|}",
       "title: ${2:タイトル}",
       "description: ${3:説明}",
       "resource: \"https://github.com/co-karuna/knowledge-base/blob/main/${4:path/to/file.md}\"",
