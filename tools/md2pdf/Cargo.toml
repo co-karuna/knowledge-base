@@ -1,0 +1,16 @@
+[package]
+name = "md2pdf"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+pulldown-cmark = "0.12"
+printpdf = "0.11"
+lopdf = "0.34"
+openssl = { version = "0.10", features = ["vendored"] }
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
+anyhow = "1"
+rpassword = "7"
+hex = "0.4"
